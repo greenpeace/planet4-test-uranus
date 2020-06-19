@@ -3,8 +3,8 @@
 	"description": "Greenpeace P4 test-uranus",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme" : "dev-planet-5099-use-class-symbol-for-class-names",
-		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-planet-5099-use-class-instead-of-string",
+		"greenpeace/planet4-master-theme" : "dev-planet-5099-avoid-eval-usage",
+		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
 		"greenpeace/planet4-plugin-gutenberg-engagingnetworks" : "dev-master",
 		"greenpeace/planet4-gpnl-plugin-gutenberg-blocks": "dev-develop",
 		"greenpeace/planet4-child-theme-netherlands": "dev-develop"
