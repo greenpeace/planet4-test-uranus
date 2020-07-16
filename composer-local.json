@@ -3,11 +3,8 @@
 	"description": "Greenpeace P4 test-uranus",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme" : "dev-planet-5099-psr4-autoloading",
-		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
-		"greenpeace/planet4-plugin-gutenberg-engagingnetworks" : "dev-master",
-		"greenpeace/planet4-gpnl-plugin-gutenberg-blocks": "dev-master",
-		"greenpeace/planet4-child-theme-netherlands": "dev-master"
+		"greenpeace/planet4-master-theme" : "dev-bootstrap-transition",
+		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master"
 	},
 	"data_from": "international",
 	"scripts": {
