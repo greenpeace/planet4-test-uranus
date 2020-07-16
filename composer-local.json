@@ -6,7 +6,7 @@
 		"greenpeace/planet4-master-theme" : "dev-bootstrap-transition",
 		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master"
 	},
-	"data_from": "international",
+	"data_from": "hungary",
 	"scripts": {
 		"site:custom" : []
 	}
