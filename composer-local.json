@@ -3,10 +3,10 @@
 	"description": "Greenpeace P4 test-uranus",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme" : "dev-master",
-		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-remove-text-transform-in-editor"
+		"greenpeace/planet4-master-theme" : "dev-planet-5585",
+		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master"
 	},
-	"data_from": "africa",
+	"data_from": "international",
 	"scripts": {
 		"site:custom" : []
 	}
