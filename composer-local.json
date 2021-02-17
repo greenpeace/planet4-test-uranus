@@ -4,11 +4,26 @@
 	"license": "MIT",
 	"require": {
 		"greenpeace/planet4-master-theme": "dev-master",
-		"greenpeace/planet4-plugin-gutenberg-blocks": "dev-master"
+		"greenpeace/planet4-plugin-gutenberg-blocks": "7"
 	},
 	"data_from": "new-zealand",
 	"scripts": {
 		"site:custom": []
 	},
-	"repositories": []
+	"repositories": [
+		{
+			"type": "package",
+			"package": {
+				"name": "greenpeace/planet4-plugin-gutenberg-blocks",
+				"type": "wordpress-plugin",
+				"autoload": null,
+				"extra": null,
+				"version": 7,
+				"dist": {
+					"type": "zip",
+					"url": "https://storage.googleapis.com/planet4-packages/planet4-plugin-gutenberg-blocks/54c96914e900f7ae31c0ba12fc9d0e9113677132.zip"
+				}
+			}
+		}
+	]
 }
